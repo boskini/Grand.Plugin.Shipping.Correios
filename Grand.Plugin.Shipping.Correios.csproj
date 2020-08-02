@@ -2,10 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <Copyright>Copyright © UNIT-SOFT Sp. z o.o.</Copyright>
-    <Authors>UNIT-SOFT Sp. z o.o.</Authors>
-    <Company>UNIT-SOFT Sp. z o.o.</Company>
-    <PackageProjectUrl>https://grandnode.com/</PackageProjectUrl>
+    <Authors>Rafael Boschini - rafaelboschini@gmail.com</Authors>
+    <PackageProjectUrl>https://github.com/rafaelboschini/Grand.Plugin.Shipping.Correios/</PackageProjectUrl>
     <TieredCompilation>true</TieredCompilation>
   </PropertyGroup>
 
