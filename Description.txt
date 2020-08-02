@@ -1,0 +1,8 @@
+﻿Group: Shipping rate computation
+FriendlyName: Correios - Empresa Brasileira de Correios
+SystemName: Shipping.Correios
+Version: 1.00
+SupportedVersions: 4.80
+Author: rafaelboschini<rafaelboschini@gmail.com>
+DisplayOrder: 1
+FileName: Grand.Plugin.Shipping.Correios.dll
